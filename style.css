@@ -1,0 +1,18 @@
+body{
+	background: #fbe3b9;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center; 
+}
+h1 { 
+	color: #801336; 
+}
+h2{
+	color: #c72c41;
+}
+
+ul{
+	text-align: left;
+}
+img{
+	width: 300px;
+}
